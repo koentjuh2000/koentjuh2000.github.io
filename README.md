@@ -14,3 +14,5 @@ A simple Vue.js 3 template for creating and managing flowcharts. This app allows
 - **Vue.js 3**: Frontend framework for building the app.
 - **Vue Flow**: Library for implementing the flowchart drag-and-drop functionality.
 - **JSON**: Save and load flowcharts using JSON format.
+
+  Test it here: https://koentjuh2000.github.io/
